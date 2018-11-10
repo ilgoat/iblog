@@ -1,13 +1,24 @@
-<h1>So, Who Am I?</h1>
+---
+title: "About"
+date: 2017-08-20T21:38:52+08:00
+lastmod: 2017-08-28T21:41:52+08:00
+menu: "main"
+weight: 50
 
-----
-<br>
-I’m just another teenager who likes **writing**, **programming** and **making stuff**. Even setting the title as **Who Am I**  for this article is reminding me of `whoami` in Linux. I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
+# you can close something for this content if you open it in config.toml.
+comment: false
+mathjax: false
+---
 
-Recently I've also started taking interest in web designing and hosting the fruitful results of which these site and blogs are! I also make **projects** and share them online at **Instructables**, the link of which has been placed on the home page. Making stuff is just one of the things I love the most.
+Hugo is a static site engine written in Go.
 
-That’s all that I can think of right now. Hopefully I’ll add something more to this later on. :sweat_smile:
 
-Curious about me? Use the social links above to check out my profiles.
+It makes use of a variety of open source projects including:
 
-You can also support me on <a href="https://patreon.com/UtkarshVerma" target="_blank">Patreon</a>. I'd really appreciate it.
+* [Cobra](https://github.com/spf13/cobra)
+* [Viper](https://github.com/spf13/viper)
+* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
+* [Cast](https://github.com/spf13/cast)
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
