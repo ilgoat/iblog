@@ -1,0 +1,40 @@
+baseURL = "http://gophergo.cn"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "IFLY's Site"
+theme = "dream-plus"
+themesDir = "./themes"   #Don't use this, only for exampleSite
+googleAnalytics = "UA-112332904-3"
+
+enableRobotsTXT = true
+
+#Enable Hugo Emoji Conversion
+enableEmoji=true
+
+[params]
+  author = "IFLY"
+  description = "A hub for my works."
+  avatar = "/img/myavatar.jpg"
+  motto = "A keen maker, programmer and an Instructables author."
+
+  favicon = "/img/favicon.ico"
+
+  #Background Settings
+  enableColorBG = true
+
+  #Cards shown per page
+  itemsPerPage = 4
+
+  #Enable card view
+  contentType = "cards"
+
+  #Enable Twitter Emoji
+  twitterEmoji=true
+
+[social]
+  email = "edenzhong7@gmail.com"
+  github = "ilgoat"
+  stackoverflow = "ilgoat"
+  medium = "ilgoat"
+  twitter = "ilgoat"
+  siteStartYear = 2018
