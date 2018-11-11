@@ -1,7 +1,7 @@
 ---
 title: "Jane Theme Preview"
 date: 2018-03-06T16:01:23+08:00
-lastmod: 2018-03-07T16:01:23+08:00
+lastmod: 2018-11-11T16:01:23+08:00
 draft: false
 tags: ["preview", "shortcodes", "tag-6"]
 categories: ["docs", "shortcodes", "index"]

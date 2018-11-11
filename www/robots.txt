@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://blog.gophergo.cn:80/sitemap.xml
+Sitemap: https://blog.gophergo.cn/sitemap.xml
